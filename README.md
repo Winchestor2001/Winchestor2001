@@ -34,6 +34,7 @@ Graduated from college with a specialization in accounting.
 
 ## Technology Icons
 
+<p>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img
         src="https://cdn.worldvectorlogo.com/logos/django.svg"
@@ -117,7 +118,7 @@ Graduated from college with a specialization in accounting.
     width="40"
     height="40"/>
 </a>
-<br>
+</p>
 ## Additional Information
 
 If you have any ideas or suggestions, I'd be happy to hear them! Let's create something amazing together. 🚀
