@@ -7,7 +7,7 @@ Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2 years of a
 - **Experience:** 2 years
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL
-- **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework
+- **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework, Celery
 - **Tools:** Telegram Bot, Selenium, Redis, Nginx, Linux
 
 ## Soft Skills
@@ -18,6 +18,11 @@ Outside of my professional activities, I enjoy console games and indulge in swim
 
 Graduated from college with a specialization in accounting.
 
+## Work Experience
+
+- **Python Mentor at Nits School**
+- **Python Backend Mentor at Mars IT School**
+  
 ## Portfolio
 
 1. **TarasivkaWebApp** - [tarasivski-kovbasy.com.ua](https://tarasivski-kovbasy.com.ua/)
