@@ -125,7 +125,7 @@ Graduated from college with a specialization in accounting.
 </a>
 </p>
 
-
+<br>
 
 ## Additional Information
 
