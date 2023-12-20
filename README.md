@@ -124,6 +124,9 @@ Graduated from college with a specialization in accounting.
     height="40"/>
 </a>
 </p>
+
+
+
 ## Additional Information
 
 If you have any ideas or suggestions, I'd be happy to hear them! Let's create something amazing together. 🚀
