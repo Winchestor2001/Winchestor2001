@@ -1,4 +1,4 @@
-# Saifiddinov Behruz - GitHub Profile
+# Saifiddinov Bexruz - GitHub Profile
 
 Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2 years of active experience in the field of development.
 
