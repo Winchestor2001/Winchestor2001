@@ -1,10 +1,10 @@
 # Saifiddinov Bexruz - GitHub Profile
 
-Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2 years of active experience in the field of development.
+Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2.5 years of active experience in the field of development.
 
 ## Experience and Technologies
 
-- **Experience:** 2 years
+- **Experience:** 2.5 years
 - **Programming Languages:** Python, JavaScript
 - **Databases:** SQL, PostgreSQL, Sqlite3
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework, Celery
