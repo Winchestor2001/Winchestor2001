@@ -31,11 +31,8 @@ Graduated from college with a specialization in accounting.
 2. **ATT-KAFEDRA-WEB** - [att.nammqi.uz](https://att.nammqi.uz/)
    - Website for a university department with electronic lessons presented directly on the site.
 
-3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagomax_bot)
+3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagoma_bot))
    - Telegram bot for purchasing insurance and other services for automobiles.
-
-4. **Probiv-Bot** - [t.me/ru_probiv_bot](https://t.me/ru_probiv_bot)
-   - Telegram bot for data lookup.
 
 ## Technology Icons
 
