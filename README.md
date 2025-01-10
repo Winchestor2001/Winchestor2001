@@ -1,6 +1,6 @@
 # Saifiddinov Bexruz - GitHub Profile
 
-Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2.5 years of active experience in the field of development.
+Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 2.8 years of active experience in the field of development.
 
 ## Experience and Technologies
 
@@ -21,18 +21,25 @@ Graduated from college with a specialization in accounting.
 ## Work Experience
 
 - **Python Mentor at Nits School** (8 month)
-- **Python Backend Mentor at Mars IT School** (7 month and work now)
+- **Python Backend Mentor at Mars IT School** (7 month)
+- **Python Backend Developer at RealSoft Company** (6.5 month)
+- **Python Backend Developer at PITTSBURGH INTERNATIONAL Company** (work now)
   
 ## Portfolio
 
-1. **TarasivkaWebApp** - [tarasivski-kovbasy.com.ua](https://tarasivski-kovbasy.com.ua/)
-   - Website for a Ukrainian workshop specializing in wholesale sales.
+1. **IlmTech** - [ilmtech.namsoft.uz](https://ilmtech.namsoft.uz)
+   - **IlmTech — Innovative Education Platform**  
+Our mission is to make education convenient, modern, and effective for every student. Through the IlmTech platform, students are provided with all the resources and opportunities needed to develop their skills and pursue independent learning.
 
 2. **ATT-KAFEDRA-WEB** - [att.nammqi.uz](https://att.nammqi.uz/)
    - Website for a university department with electronic lessons presented directly on the site.
 
 3. **Osago-Bot** - [t.me/Osagoa_bot](https://t.me/Osagoma_bot))
    - Telegram bot for purchasing insurance and other services for automobiles.
+  
+4. **SmartPed** - [smartped.uz](https://smartped.uz))
+   - **SmartPed — Innovative Education Platform**  
+Our mission is to make education convenient, modern, and effective for every student. Through the SmartPed platform, students are provided with all the resources and opportunities needed to develop their skills and pursue independent learning.
 
 ## Technology Icons
 
