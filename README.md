@@ -21,7 +21,7 @@ Graduated from college with a specialization in accounting.
 ## Work Experience
 
 - **Python Mentor at Nits School** (8 month)
-- **Python Backend Mentor at Mars IT School** (7 month)
+- **Python Backend Mentor at Mars IT School** (10 month)
 - **Python Backend Developer at RealSoft Company** (6.5 month)
 - **Python Backend Developer at PITTSBURGH INTERNATIONAL Company** (work now)
   
