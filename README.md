@@ -8,7 +8,7 @@ Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 3.6 years of
 - **Programming Languages:** Python
 - **Databases:** SQL, PostgreSQL, Sqlite3, SqlAlchemy, alembic
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework, Celery, FastApi
-- **Tools:** requests, bs4, Selenium, Redis, Nginx, Linux
+- **Tools:** requests, bs4, Selenium, Redis, Nginx, Linux, Rabbitmq
 
 ## Soft Skills
 
