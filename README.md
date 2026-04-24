@@ -4,7 +4,7 @@ Hello! 👋 I am Saifiddinov Behruz, a young software engineer with 3.6 years of
 
 ## Experience and Technologies
 
-- **Experience:** 3.6 years
+- **Experience:** 4.5+ years
 - **Programming Languages:** Python
 - **Databases:** SQL, PostgreSQL, Sqlite3, SqlAlchemy, alembic
 - **Frameworks and Libraries:** Aiogram, Aiohttp, Django, Django Rest Framework, Celery, FastApi
